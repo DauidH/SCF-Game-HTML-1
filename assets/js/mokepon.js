@@ -78,12 +78,12 @@ class Mokepon {
     }
 }
 
-let gatungFu = new Mokepon("Gatung Fu", "gatung-fu", "./assets/imgs/gatung-fu.gif", 5)
-let sheriffCat = new Mokepon("Sheriff Cat", "sheriff-cat", "./assets/imgs/sheriff-cat.gif", 5)
-let catSparrow = new Mokepon("Cat Sparrow", "cat-sparrow", "./assets/imgs/cat-sparrow.gif", 5)
-let gathofen = new Mokepon("Gathofen", "gathofen", "./assets/imgs/gathofen.gif", 5)
-let catminator = new Mokepon("Catminator", "catminator", "./assets/imgs/catminator.gif", 5)
-let catkingo = new Mokepon("Catkingo", "catkingo", "./assets/imgs/catkingo.gif", 5)
+let gatungFu = new Mokepon("Gatung Fu🌱", "gatung-fu", "./assets/imgs/gatung-fu.gif", 5)
+let sheriffCat = new Mokepon("Sheriff Cat🔥", "sheriff-cat", "./assets/imgs/sheriff-cat.gif", 5)
+let catSparrow = new Mokepon("Cat Sparrow💧", "cat-sparrow", "./assets/imgs/cat-sparrow.gif", 5)
+let gathofen = new Mokepon("Gathofen🔥💧", "gathofen", "./assets/imgs/gathofen.gif", 5)
+let catminator = new Mokepon("Catminator🔥🌱", "catminator", "./assets/imgs/catminator.gif", 5)
+let catkingo = new Mokepon("Catkingo🌱💧", "catkingo", "./assets/imgs/catkingo.gif", 5)
 
 gatungFu.ataques.push(
     { nombre: "🌱", id: "boton-tierra", poder: "TIERRA 🌱"},
