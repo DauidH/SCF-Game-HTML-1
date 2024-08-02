@@ -144,7 +144,7 @@ function iniciarJuego() {
 
     mokepones.forEach((mokepon) => {
         opcionDeMokepones = `
-        <div id="tarjeta-${mokepon.id}">
+        <div id="tarjeta-${mokepon.id}" class="tarjeta">
             <input type="radio" name="mascota" id=${mokepon.id} />
             <label class="tarjeta-de-mokepon" for=${mokepon.id}>
                 <P style="margin: 0px";>${mokepon.nombre}</P>
